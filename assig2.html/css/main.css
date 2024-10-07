@@ -1,0 +1,51 @@
+.top{
+    background-image: url("../imegs/black-particle.png");
+    background-attachment: fixed;
+
+    color: white;
+    
+    margin: 0;  
+ 
+    padding-left: 70px ;
+    padding-right: 70px;
+}
+.between{
+    background-image: url("../imegs/black-particle.png");
+    display: flex;
+
+justify-content: space-between;
+padding: 35px 50px 70px 50px;
+
+align-items: center;
+
+}
+
+ul{
+    list-style:inside;
+}
+ ol li{
+    margin: 30px;
+    font-size: 20px;
+
+    display:inline-table;
+ 
+ }
+
+
+p{ 
+    font-size: 23px;
+    width: 500px ;
+    
+}
+
+.imge1 img{
+   
+    border-radius: 25%;
+}
+.imge2 img{
+   
+    border-radius: 3%;
+}
+
+
+
